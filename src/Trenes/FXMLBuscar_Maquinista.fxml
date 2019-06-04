@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" fx:id="pane" prefHeight="407.0" prefWidth="522.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="proyectofinal_turismo.FXMLBuscar_GuiaController">
+<AnchorPane id="AnchorPane" fx:id="pane" prefHeight="407.0" prefWidth="522.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="proyectofinal_Trenes.FXMLMaquinista_GuiaController">
    <children>
       <Label layoutX="179.0" layoutY="31.0" text="Buscar Maquinista">
          <font>

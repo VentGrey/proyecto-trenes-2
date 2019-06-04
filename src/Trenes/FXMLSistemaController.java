@@ -27,7 +27,7 @@ import MisClases.Viajes;
 /**
  * FXML Controller class
  *
- * @author Carlos
+ * @author Omar
  */
 public class FXMLSistemaController implements Initializable {
 
@@ -463,11 +463,11 @@ public class FXMLSistemaController implements Initializable {
         }
     }
 
-    public void hablilitarReservaciones() {
+    public void habilitarViajes() {
         btnViaje.setDisable(false);
     }
 
-    public void deshablilitar_Reservaciones() {
+    public void deshabilitarviajes() {
         btnViaje.setDisable(true);
     }
 
